@@ -1,22 +1,20 @@
 # Summary
 ---
 
-# Key Skills
+#Network Engineer
 
-- IAM & Access: Active Directory, Entra ID, Keycloak, MFA, SSO, RBAC, JML lifecycle, OAuth 2.0, OpenID Connect (OIDC), SAML
-- Identity Governance: Least privilege, access reviews, privilege cleanup, role-based access control, user/group management
-- Authentication & Security: Authentication troubleshooting, Conditional Access, Zero Trust principles
-- Cloud & Platforms: Azure, AWS (hands-on labs), SaaS identity scenarios
-- Automation & Scripting: PowerShell, Python (basic), Bash (basic)
-- Monitoring & Analysis: Log analysis, authentication events, SIEM (Wazuh - Home Labs), Grafana
-- Networking: TCP/IP, DNS, HTTP, ICMP
+A Place to store personal projects, vibe code and 
 
 ---
 
-# Credentials
+# Certifications
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)  
 - Microsoft Certified: Security, Compliance and Identity Fundamentals (SC-900) — April 2026
+
+# 2026 Goals
+- Palo Alto Certified Network Security Professional
+- CCNP
 
 ---
 
