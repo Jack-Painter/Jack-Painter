@@ -1,9 +1,9 @@
 # Summary
 ---
 
-#Network Engineer
+# Network Engineer
 
-A Place to store personal projects, vibe code and 
+My playground for personal projects, delve into automation basics and vibe code.
 
 ---
 
